@@ -33,3 +33,4 @@ variable "min_worker_count" {
 variable "max_worker_count" {
   description = "Maximum number of worker nodes"
 }
+

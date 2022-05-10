@@ -1,7 +1,7 @@
 {
-  "name": "Google Kubernetes Engine",
-  "description": "Managed Kubernetes Service within Google Cloud",
-  "version": "1.0",
+  "name": "Google Kubernetes Engine for Terraform 1.x.x",
+  "description": "Managed Kubernetes Service within Google Cloud for Terraform 1.x.x",
+  "version": "2.0",
   "type": "prebuilt",
   "manifest": {
     "template_type": "Terraform",
