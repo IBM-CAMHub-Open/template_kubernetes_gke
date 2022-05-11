@@ -1,3 +1,7 @@
+provider "google" {
+  version = "< 4.0.0"
+} 
+
 # Use regular expression to validate format of given kubernetes version
 resource "null_resource" "validate-kube-version" {
   provisioner "local-exec" {
